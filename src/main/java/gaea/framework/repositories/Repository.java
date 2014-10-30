@@ -11,5 +11,5 @@ public interface Repository {
 
     Specification createSpecification();
 
-    public List findAll();
+    public List findAll(Specification spec);
 }

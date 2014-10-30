@@ -1,9 +1,6 @@
-package gaea.framework.expressions.impl;
+package gaea.framework.expressions;
 
 import gaea.framework.expressions.QueryCondition;
 
-/**
- * Created by jorson on 14-10-23.
- */
 public class EqualCondition implements QueryCondition {
 }
